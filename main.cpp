@@ -3,7 +3,7 @@
 
 using namespace Wt;
 
-/*
+/*  ....
  * A simple web page application class.
  */
 class webpage : public Wt::WApplication
